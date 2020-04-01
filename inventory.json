@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "name": "American Beech",
+        "genus": "Fagus",
+        "species": "grandifolia",
+        "height": "66-115 ft",
+        "description": "American Beech trees are a hard wood tree and is used mainly in bentwood furniture as well as used as a long-burning firewood",
+        "pic": "American_Beech"
+   },
+    {
+        "id": 1,
+        "name": "Amur Corktree",
+        "genus": "Phellodendron",
+        "species": "amurnese",
+        "height": "50 ft",
+        "description": "The Amur Corktree is listed as an invasive species in both the US and Canada, while in China it is used heavily in traditional medicine",
+        "pic": "Amur_Corktree"
+   },
+    {
+        "id": 2,
+        "name": "Baldcypress",
+        "genus": "Taxodium",
+        "species": "distichum",
+        "height": "35-120 ft",
+        "description": "Baldcypress are decidouus conifers native to the southeastern US while being able to grow in all soil types from sandy to clay but prefers mosist or wet soil",
+        "pic": "Baldcypress"
+    },
+    {
+        "id": 3,
+        "name": "Goldenrain tree",
+        "genus": "Koelreuteria",
+        "species": "paniculata",
+        "height": "23 ft",
+        "description": "The Goldenrain tree is native to Eastern Asia, introduced to Europe in 1747 and introduced to America in 1763. The trees are mainly grown as ornamental trees.",
+        "pic": "GoldenRainTree"
+    },
+    {
+        "id": 4,
+        "name": "Japanese Pagoda Tree",
+        "genus": "Styphnolobium",
+        "species": "japonicum",
+        "height": "32-65 ft",
+        "description": "The Pagoda Tree is native to Eastern Asia, mainly China, it is a popular ornamental tree in Europe, North America and South Africa for its white flowers",
+        "pic": "styphnolobium_japonicum"
+    },
+    {
+        "id": 5,
+        "name": "Katsura Tree",
+        "genus": "Cercidiphyllum",
+        "species": "jamonicum",
+        "height": "32-147 ft",
+        "description": "The Katsura Tree is on the endangered species list in China and classified as being lower risk when the Japanese populations are included. It can also emit a light caramel scent during leaf fall",
+        "pic": "Katsura_Tree"
+    },
+    {
+        "id": 6,
+        "name": "Kentucky Coffeetree",
+        "genus": "Gymnocladus",
+        "species": "dioicus",
+        "height": "60-70 ft",
+        "description": "The Kentucky Coffeetree is native to the Midwest and Upper South of North America. The seeds the tree produces can be roasted and used as a substitute for coffee beans, but unroasted they are toxic",
+        "pic": "kentucky_coffeetree"
+    },
+    {
+        "id": 7,
+        "name": "Miyabe's Maple",
+        "genus": "Acer",
+        "species": "miyabei",
+        "height": "32-65 ft",
+        "description": "The Miyabe Maple is a maple tree native to Japan. It is an endangered species often confined to scattered locations close to streams and rivers",
+        "pic": "Acer_miyabei"
+    },
+    {
+        "id": 8,
+        "name": "Osage-orange",
+        "genus": "Maclura",
+        "species": "pomifera",
+        "height": "30-50 ft",
+        "description": "The Osage-orange is a small tree or large shrub. The fruits of the tree secrete a sticky white latex and are not generally eaten by humans",
+        "pic": "Osage-orange"
+    },
+    {
+        "id": 9,
+        "name": "Sweetgum",
+        "genus": "Liquidambar",
+        "species": "styraciflua",
+        "height": "50-70 ft",
+        "description": "The Sweetgum tree is natvie to warm temperate areas of Eastern North America as well as the tropical montane region of Central America",
+        "pic": "sweetgum"
+    }
+]
